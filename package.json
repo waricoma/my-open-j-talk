@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "kuromoji": "^0.1.2",
+    "openjtalk": "^0.1.6"
+  }
+}
